@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100024</identifier>
+	<creators>
+		<creator>
+			<creatorName>Xia, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xuan, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Dai, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jiang, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Becquet, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zha, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lin, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shen, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jiang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jensen, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hellmann, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>He, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ye, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Du, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shao, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zeng, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yin, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Resequencing data from 40 varieties of wild and domesticated silkworms</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+		<subject>Epigenomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1126/science.1176620</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here we present whole-genome resequencing data of 40 domesticated and wild silkworms (Bombyx).  The domesticated silkworm (Bombyx mori) is of great economic interest and has been domesticated for more the 5,000 years.  An organism with a mid-range genome size (~432 Mb), it often serves as a model insect for the order Lepidoptera.  A number of wild varieties of silkworms exist as well, including the Chinese wild silkworm (Bombyx mandarina) from which the domesticated silkworm originated.
+
+Each of the silkworm varieties was sequenced to ~3X coverage, representing 99.88% of the genome.  These sequences were then used to create a single-base pair resolution genetic variation map of the silkworm.  SNP sets were obtained separately for the pool of 29 domesticated strains and the pool of 11 wild varieties.  The number of SNPs in the domestic versus wild varieties was approximately 14 million and 13 million, respectively.  In addition to SNPs, approximately 0.33 million small insertion-deletions (indels) and 35 thousand structural variants (SVs) were identified among the 40 varieties.  Over three-fourths of the SVs overlapped with transposable elements.
+
+A total of 1,041 candidate regions Genomic Regions of Selective Signals (GROSS) were identified.  These regions cover 12.5 Mb (2.9%) of the genome and may reflect genomic footprints left by artificial selection during domestication, as they include 354 protein-coding genes that were identified as good candidates for domestication genes.
+
+We observed that 159 genes from GROSS were expressed in on different B. mori tissues on day 3 of the fifth larval instar as a reference strain, and were enriched in tissues of silk gland, midgut, and testis.  The genes expressed in silk gland are involved in the synthesis of silk proteins, including fibroin and sericin.  Midgut-enriched genes are related to the metabolism of carbohydrates, amino acids and lipids.  And genes enriched in the testis are annotated as having binding, catalytic, and motor activity related to reproduction.
+
+The reference genome for this project was the Japanese wild silkworm (NCBI Accession Number NC_003395).</description>
+	</descriptions>
+</resource>
+

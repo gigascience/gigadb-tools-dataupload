@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100018</identifier>
+	<creators>
+		<creator>
+			<creatorName>Bonasio, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ye, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mutti, NS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Donahue, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Berger, SL</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Reinberg, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liebig, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome data from the Florida carpenter ant (Camponotus floridanus)</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1126/science.1192428</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>74 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here we present the sequenced genome of the Florida carpenter ant (Camponotus floridanus), a species with an organized caste society.  As an eusocial species, its genome offers interesting insights into aging, epigenetics and animal behavior.
+
+The Illumina Genome Analyzer platform was used to sequence a genomic library of the Florida carpenter ant, obtaining more than 100-fold coverage.  The draft genomic assembly reached a scaffold N50 size of ~600 Kb and covers more than 90% of the approximately 240 Mb genome.</description>
+	</descriptions>
+</resource>
+

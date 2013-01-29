@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100022</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kim, EB</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fushan, AA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lobanov, AV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Han, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Marino, SM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sun, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Turanov, AA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yim, SH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kasaikina, MV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Stoletzki, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peng, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Polak, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiong, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kiezun, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kryukov, GV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peshkin, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bronson, RT</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Buffenstein, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Han, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sunyaev, SR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Park, TJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gladyshev, VN</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome sequence of the naked mole rat (Heterocephalus glaber)</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	<date dateType="Updated">2012-04-27</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature10533</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here is the genome of the naked mole rat (Heterocephalus glaber), one of the only two known eusocial mammals.  It is a fascinating species, due not only to its unique behavior but also to its unique physiology.  Among its unusual characteristics, it has the longest lifespan of all rodent species, is a poikilotherm, is highly resistant to cancer, and does not sense certain types of pain.
+
+The genome of an individual male naked mole rat was sequenced on the Illumina HiSeq 2000 platform and assembled using SOAPdenovo.  In assembly 2.5 Gb (gigabase pairs) contig sequences with N50 19.3 kb (kilobase pairs) and N90 4.7 kb, and 2.7 Gb scaffold sequences with N50 1.6 Mb (megabase pairs) and N90 0.3 Mb was obtained.</description>
+	</descriptions>
+</resource>
+

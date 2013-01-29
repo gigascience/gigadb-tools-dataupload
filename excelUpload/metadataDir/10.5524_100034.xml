@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100034</identifier>
+	<creators>
+		<creator>
+			<creatorName>Kan, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Barber, TD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gong, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gao, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hao, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Willard, MD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hauptschein, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Rejto, PA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fernandez, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lee, NP</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lee, WH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ariyaratne, PN</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tennakoon, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mulawadi, FH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wong, KF</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, AM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chan, KL</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chou, WC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Buser, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lin, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peng, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yi, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ye, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ju, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Estrella, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Deng, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wulur, IH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ehsani, ME</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Loboda, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sung, WK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Aggarwal, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Poon, RT</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, ST</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hardwick, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Reinhard, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Dai, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Luk, JM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mao, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>the Asian Cancer Research Group</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Hepatocellular carcinoma genomic data from the Asia Cancer Research Group</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-05-31</date>
+	<date dateType="Updated">2012-06-22</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/ng.2295</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>15 TB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Hepatocellular carcinoma (HCC) is one of the most common solid tumors worldwide and represents the third leading cause of cancer deaths.  Hepatitis B virus (HBV) is a major etiologic agent, leading to an increased risk of developing HCC, in particular those with acute liver disease and cirrhosis.  The Asian Cancer Research Group (ACRG) is an independent, not-for-profit company established to accelerate research and improve treatment for patients affected with the most commonly-diagnosed cancers in Asia.
+
+With HBV being endemic in China and Southeast Asia, and high levels of HCC being a result, the ACRG have studied the events and effects of HBV integration in the HCC genome.  To do this massively parallel sequencing in a cohort of 88 Chinese patients diagnosed with HCC who underwent curative primary hepatectomy or liver transplantation at Queen Mary Hospital (Pokfulam, Hong Kong) was carried out.  All patients gave written informed consent to use both tumor (T) and non-tumor (N) liver tissues for the study.
+
+Genomic DNA was purified for at least 30-fold coverage paired-end (PE) sequencing, and PE reads were mapped on human reference genome (UCSC build hg19) and HBV (NC_003977).  Two sequencing libraries with different insert size were constructed for each genomic DNA sample (200 bp and 800 bp).  Paired end, 90bp read length sequencing was performed in the HiSeq 2000 sequencer according to Manufacturer’s instructions. Raw gene expression profiling data of these human HCC samples has also deposited to GEO with the accession number GSE25097.</description>
+	</descriptions>
+</resource>
+

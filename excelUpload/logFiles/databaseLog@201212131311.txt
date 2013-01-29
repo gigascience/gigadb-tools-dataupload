@@ -1,0 +1,18 @@
+**Begin: file 1 : GigaDBUploadForm_SOAPdenovoWorkflow.xls in process...
+ValidationTest for file/sample_id: The file name: README.pdf No reference any sample/sample_id
+ValidationTest for file/sample_id: The file name: Assemblathon1_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Assemblathon1_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Bombus_impatiens_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Bombus_impatiens_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Rhodobacter_sphaeroides_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Rhodobacter_sphaeroides_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Staphylococcus_aureus_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Staphylococcus_aureus_pipelineWarning: file_format is unknown
+ValidationTest for file_format: YH_pipelineWarning: file_format is unknown
+validTest for dataset_type : 'Software'  error 
+validTest for dataset_type : 'Software'  error 
+ValidTest for doi: '10.1186/2047-217X-1-1'. Warning: can't not pull the information of pmid from it
+**End error: GigaDBUploadForm_SOAPdenovoWorkflow.xls
+
+The following files has some errors, thus they are not uploaded!
+[GigaDBUploadForm_SOAPdenovoWorkflow.xls]

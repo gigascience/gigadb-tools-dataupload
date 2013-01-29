@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100010</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rasmussen, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lohmueller, KE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Rasmussen, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Albrechtsen, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Skotte, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lindgreen, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Metspalu, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jombart, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kivisild, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhai, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Eriksson, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Manica, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Orlando, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>De La Vega, FM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tridico, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Metspalu, E</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Avila-Arcos, MC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Moreno-Mayar, JV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Muller, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Dortch, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gilbert, MT</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lund, O</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wesolowska, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Karmin, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Weinert, LA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tai, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiao, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hanihara, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>van Driem, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jha, AR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ricaut, FX</creatorName>
+		</creator>
+		<creator>
+			<creatorName>de Knijff, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Migliano, AB</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Romero, IG</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristiansen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lambert, DM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Brunak, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Forster, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Brinkmann, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nehlich, O</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bunce, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Richards, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gupta, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bustamante, CD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Krogh, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Foley, RA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lahr, MM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Balloux, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sicheritz-Ponten, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Villems, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Willerslev, E</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic sequence from an Aboriginal Australian </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1126/science.1211177</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>188 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here we present Aboriginal Australian (Homo sapiens) genomic sequence obtained from a 100-year-old lock of hair donated by an Aboriginal man from southern Western Australia in the early 20th century.
+
+The nuclear genome was sequenced to an overall depth of 6.4-fold.  It had a high degree of fragmentation, but no genotype level evidence of sample contamination by DNA from sample handlers of European descent was detected.  Over 2 million SNPs were identified after genome mapping and genotyping, approximately 6 percent of which were not previously reported.  The mitochondrial genome (mtDNA) was sequenced to an average depth of 338x and found to belong to a new subclade of haplogroup O.</description>
+	</descriptions>
+</resource>
+

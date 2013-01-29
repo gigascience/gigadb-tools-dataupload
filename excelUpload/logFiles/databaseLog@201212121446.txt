@@ -1,0 +1,11 @@
+**Begin: file 1 : GigaDBUploadForm_YHTranscriptome.xls in process...
+The dataset: '10.5524/100013 has already in database. Start compare old dataset with new dataset
+You may forgot type modification_date the old one has it 
+The dataset size has changed to: Transcriptome from a lymphoblastoid cell line taken from the YH Han Chinese individual.  the old one is 78061030600
+The image_license is changed to : public domain because its term of copyright has expired in image_location 37
+You may forgot type related_doi or doi_relationship , the old one has it
+End success.
+ValidTest for necessary file : Readme Warning: doesn't exist.
+**End success: GigaDBUploadForm_YHTranscriptome.xls
+The following files has some errors, thus they are not uploaded!
+[]

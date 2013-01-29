@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100009</identifier>
+	<creators>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nagarajan, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lewis, NE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cai, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hammond, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Andersen, MR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Neff, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Passarelli, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Koh, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, HC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gui, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lee, KH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Betenbaugh, MJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Quake, SR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Famili, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Palsson, BO</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>The genomic sequence of the Chinese hamster ovary (CHO) K1 cell line (Cricetulus griseus) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-07-20</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nbt.1932</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Chinese hamster ovary (CHO) K1 cells are a cell line cultured from the ovary of the Chinese hamster (Cricetulus griseus).  CHO cells are often used in biological and medical studies and commercially in the production of therapeutic proteins, which contribute significantly to the $100 billion biopharmaceutical market.
+
+BGI sequenced the CHO K1 genome genome using next-generation sequencing technology, assembling a 2.45G genome with 24,383 predicted genes.</description>
+	</descriptions>
+</resource>
+

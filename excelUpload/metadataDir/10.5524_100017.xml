@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100017</identifier>
+	<creators>
+		<creator>
+			<creatorName>Jex, AR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Young, ND</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hall, RS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zeng, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiong, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Anderson, GA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Harris, TW</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Campbell, BE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Vlaminck, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cantacessi, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Schwarz, EM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ranganathan, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Geldhof, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nejsum, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sternberg, PW</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gasser, RB</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the roundworm Ascaris suum</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature10553</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>90 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Available here is the draft genome for Ascaris suum, a roundworm species that infects pigs.  It is a valuable resource for therapy and diagnostic test development for both Ascaris suum infection of pigs, and also human infection by the closely related species A. lumbricoides.
+
+The A. suum genome was sequenced at ~80-fold coverage to generate an approximately 273 million base genome sequence encoding 18,542 protein-coding genes.  Compared to other metazoan genomes, it has low repeat content (4.4%). Compared with other parasitic free-living roundworms and C. elegan, A. suum shares the highest homology with Brugia malayi, another animal parasite.  The A. suum secretome (consisting of around 750 molecules) is rich in peptidases linked to the penetration and degradation of host tissue, and an assemblage of molecules likely to modulate or evade host immune responses.  This genome provides a comprehensive resource to the scientific community and a foundation for developing new and urgently needed therapeutic intervention drugs, vaccines and diagnostic tests) against ascariasis and other nematodiases.</description>
+	</descriptions>
+</resource>
+

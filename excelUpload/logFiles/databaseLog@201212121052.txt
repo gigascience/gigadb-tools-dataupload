@@ -1,0 +1,59 @@
+**Begin: file 1 : GigaDBUploadForm_SOAPdenovo2.xls in process...
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110118_I137_FC81990ABXX_L5_HUMiqvDBTDTAAPE_1.fq.gz
+ValidationTest for file_size: 110118_I137_FC81990ABXX_L5_HUMiqvDBTDTAAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110118_I137_FC81990ABXX_L5_HUMiqvDBTDTAAPE_2.fq.gz
+ValidationTest for file_size: 110118_I137_FC81990ABXX_L5_HUMiqvDBTDTAAPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110121_I338_FC702HNABXX_L5_HUMiqvDBTDUAAPE_1.fq.gz
+ValidationTest for file_size: 110121_I338_FC702HNABXX_L5_HUMiqvDBTDUAAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110121_I338_FC702HNABXX_L5_HUMiqvDBTDUAAPE_2.fq.gz
+ValidationTest for file_size: 110121_I338_FC702HNABXX_L5_HUMiqvDBTDUAAPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110130_I266_FC81EE0ABXX_L5_HUMiqvDBTDBCAPE_1.fq.gz
+ValidationTest for file_size: 110130_I266_FC81EE0ABXX_L5_HUMiqvDBTDBCAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110130_I266_FC81EE0ABXX_L5_HUMiqvDBTDBCAPE_2.fq.gz
+ValidationTest for file_size: 110130_I266_FC81EE0ABXX_L5_HUMiqvDBTDBCAPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110201_I441_FC81EVJABXX_L4_HUMiqvDBTDBABPE_1.fq.gz
+ValidationTest for file_size: 110201_I441_FC81EVJABXX_L4_HUMiqvDBTDBABPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110201_I441_FC81EVJABXX_L4_HUMiqvDBTDBABPE_2.fq.gz
+ValidationTest for file_size: 110201_I441_FC81EVJABXX_L4_HUMiqvDBTDBABPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110201_I441_FC81EVJABXX_L5_HUMiqvDBTDBAAPE_1.fq.gz
+ValidationTest for file_size: 110201_I441_FC81EVJABXX_L5_HUMiqvDBTDBAAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110201_I441_FC81EVJABXX_L5_HUMiqvDBTDBAAPE_2.fq.gz
+ValidationTest for file_size: 110201_I441_FC81EVJABXX_L5_HUMiqvDBTDBAAPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110425_I263_FCB0623ABXX_L8_HUMiqvDBTDTBAPE_1.fq.gz
+ValidationTest for file_size: 110425_I263_FCB0623ABXX_L8_HUMiqvDBTDTBAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110425_I263_FCB0623ABXX_L8_HUMiqvDBTDTBAPE_2.fq.gz
+ValidationTest for file_size: 110425_I263_FCB0623ABXX_L8_HUMiqvDBTDTBAPE_2.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110427_I238_FCB058TABXX_L7_HUMiqvDADDUAAPE_1.fq.gz
+ValidationTest for file_size: 110427_I238_FCB058TABXX_L7_HUMiqvDADDUAAPE_1.fq.gz  Warning: file_size < 1
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/110427_I238_FCB058TABXX_L7_HUMiqvDADDUAAPE_2.fq.gz
+ValidationTest for file_size: 110427_I238_FCB058TABXX_L7_HUMiqvDADDUAAPE_2.fq.gz  Warning: file_size < 1
+ValidationTest for file_format: lstWarning: file_format is unknown
+We can't get the file, please check its path: 
+ftp://climb.genomics.cn/pub/10.5524/100001_101000/100038/data/YH_raw_data.lst
+ValidationTest for file_size: YH_raw_data.lst  Warning: file_size < 1
+The dataset: '10.5524/100038 has already in database. Start compare old dataset with new dataset
+java.lang.NullPointerException
+	at Excel2Database.compare_dataset(Excel2Database.java:764)
+	at Excel2Database.comparison(Excel2Database.java:200)
+	at Excel2Database.fillTable(Excel2Database.java:2932)
+	at Main.processExcel2Database(Main.java:67)
+	at Main.processExcel(Main.java:135)
+	at Main.main(Main.java:175)
+**End error: GigaDBUploadForm_SOAPdenovo2.xls
+
+The following files has some errors, thus they are not uploaded!
+[GigaDBUploadForm_SOAPdenovo2.xls]

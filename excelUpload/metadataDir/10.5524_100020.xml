@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100020</identifier>
+	<creators>
+		<creator>
+			<creatorName>Liu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Quan, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zeng, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yue, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhan, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome data from foxtail millet (Setaria italica)</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nbt.2195</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>255 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Foxtail millet (Setaria italica) (2n=18), is an annual grass grown both as cereal crop (grain production) and as forage food.  It is primarily grown in temperate, subtropical and tropical areas.  With approximately 6,000 varieties, millet is one member of the Panicoideae (grasses subfamily), which includes maize (Zea mays), sorghum (Sorghum bicolor), and sugar cane (Saccharum officinarum).  It is a nutritious dietary staple, containing starch, proteins, and a number of vitamins and minerals, such as calcium, iron, and sodium.  It feeds nearly one-third of the world population with main daily-calories intake, and is especially prevalent in dry climates or soil-poor regions that are not suited for the cultivation of many other crops.  Millet is self-pollinating, has a short lifecycle, is small in stature, and has a small genome size; all of these useful attributes make it an invaluable functional genomics model system, and an excellent reference genome to aid in the sequencing of other larger grasses genomes.</description>
+	</descriptions>
+</resource>
+

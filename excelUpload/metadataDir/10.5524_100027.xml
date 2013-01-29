@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100027</identifier>
+	<creators>
+		<creator>
+			<creatorName>Ge, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cai, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shen, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Asan</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ma, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yi, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ou, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Geng, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome data from the Tibetan antelope (Pantholops hodgsonii) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>231 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The Tibetan antelope (Pantholops hodgsonii) is a native of the high mountain steppes and semi-desert areas of the Tibetan plateau.  It is a medium sized antelope that displays both migratory and herd behavior.  Of interest, it is the only member of the genus Pantholops.  The Tibetan antelope are listed as an endangered species, which is due to commercial poaching for their fine underwool, competition with local domesticated herds, and commercial development of their range land.
+
+The genome of the Tibetan antelope was sequenced using Illumina GA sequencing technology.  Genome assembly and annotation was also completed.  The data here can be used for understanding the unique adaptations this animal has for surviving in its extreme high-altitude and as a model for investigating specific genetic mechanisms and the biology of other ruminant species.</description>
+	</descriptions>
+</resource>
+

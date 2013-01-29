@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100028</identifier>
+	<creators>
+		<creator>
+			<creatorName>Varshney, RK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bharti, AK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Saxena, RK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Schlueter, JA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Donoghue, MT</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Azam, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Whaley, AM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Farmer, AD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sheridan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Iwata, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tuteja, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Penmetsa, RV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Upadhyaya, HD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, SP</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shah, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Saxena, KB</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Michael, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>McCombie, WR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Spillane, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cook, DR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>May, GD</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jackson, SA</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the pigeonpea (Cajanus cajan) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nbt.2022</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>184 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here we present the genome of the pigeonpea (Cajanus cajan), a widely farmed diploid legume species.  It is an important reference genome for food crop development as many crop species, such as soybean (Glycine max), chickpea (Cicer arietinum), lentil (Lens culinaris), and alfalfa (Medicago sativa), are legumes.  The genetic improvement of pigeonpea has ramifications for food protection as well, as it is cultivated primarily in small-scale holdings in semi-arid tropical regions of the developing world.
+
+The 237.2 Gb of sequence were generated using the Illumina next-generation sequencing platform to generate.  Scaffolds representing 72.7% (605.78 Mb) of the 833.07-Mb pigeonpea genome were assembled using the Illumina sequence and Sanger-based bacterial artificial chromosome end sequences and a genetic map.  A few segmental duplication events, but no recent genome-wide duplication events, are observable.</description>
+	</descriptions>
+</resource>
+

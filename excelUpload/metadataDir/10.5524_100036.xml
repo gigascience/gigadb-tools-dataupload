@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100036</identifier>
+	<creators>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guan, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cai, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jie, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shen, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gong, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Han, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Dai, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sun, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tang, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhong, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Type 2 Diabetes gut metagenome (microbiome) data from 368 Chinese samples and updated metagenome gene catalog</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Metagenomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-08-30</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature11450</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>7 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">We provide data from the sequenced and analyzed gut metagenome of 368 Chinese individuals with Type 2 Diabetes (T2D) and healthy controls used in a newly developed two stage Metagenome-Wide Association Study (MWAS) aimed at identifying associations between gut microbiota and Type 2 Diabetes. The data here include the an updated metagenome gene catalog, metagenome assemblies, genetic and functional markers associated with T2D, and a novel form of marker- a Metagenomic Linkage Marker (MGL), that allows taxonomic species-level analyses without the need to identify, isolate, and culture novel bacterial species.
+
+Bacterial DNA was extracted from faecal samples and subjected to unbiased, whole-genome shotgun (WGS) sequencing using the Illumina GAIIx and HiSeq2000. In summary, 145 samples were sequenced in stage I and 378.4 Gb of paired-end (PE) sequence data were generated; 200 samples were sequenced in stage II and 830.8 Gb of PE sequence data were generated, as well as 23 additional samples for a validation study on gut-microbiota-based T2D classification. By combining MetaHIT data and our sequence data in stage I we constructed an updated human gut microbial gene catalogue, which contained 4.3 million genes suitable for studies on Chinese individuals. In this updated gene catalogue, 21.3%, 47.1% and 60.9% of genes could be assigned to known genera, KEGG and eggNOG database respectively. Taking this gene catalogue as a reference, we identified gene, KO and OG markers, respectively, which seemed to be strongly associated with T2D in our two-stage case-control study, and 47 Metagenomic Linkage Groups (MLGs). These MLGs were further assembled into different contig sets, which could provide useful genetic, functional, and taxonomic information for the relevant bacterium.
+</description>
+	</descriptions>
+</resource>
+

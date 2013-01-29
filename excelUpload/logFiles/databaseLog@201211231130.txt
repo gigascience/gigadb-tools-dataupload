@@ -1,0 +1,5 @@
+**Begin: file 1 : GigaDBUploadForm_Millet.xls in process...
+**End error: GigaDBUploadForm_Millet.xls duplicate upload!
+
+The following files has some errors, thus they are not uploaded!
+[GigaDBUploadForm_Millet.xls]

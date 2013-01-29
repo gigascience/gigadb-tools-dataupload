@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100015</identifier>
+	<creators>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tian, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Goodman, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Feng, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Du, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hellmann, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Inouye, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pool, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yi, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Duan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ma, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ni, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ruan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ye, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hao, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Su, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Asan</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ping, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ren, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gao, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Feng, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristiansen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wong, GK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Durbin, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bolund, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome sequence of YH: the first diploid genome sequence of a Han Chinese individual</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-07-06</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature07484</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementedBy">10.5524/100013</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementedBy">10.5524/100014</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsPreviousVersionOf">10.5524/100038</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>446 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Genomic data from the YH (Homo sapiens) genome – first diploid genome sequence of a Han Chinese, a representative of the Asian population.  The genomic DNA used in this study came from an anonymous male Han Chinese individual who has no known genetic diseases.
+
+The YH genome was assembled based on 3.3 billion reads using the Illumina Genome Analyzer.  We achieved 117.7G nucleotides data and the genome was sequenced to 36-fold average coverage.  By aligning the short reads with SOAP, 102.9G nucleotides were mapped onto the NCBI reference genome and 99.97% of the genome was covered.  The raw sequences, alignments, consensus genome, variants and relevant tools are released for public use under a CC0 license.</description>
+	</descriptions>
+</resource>
+

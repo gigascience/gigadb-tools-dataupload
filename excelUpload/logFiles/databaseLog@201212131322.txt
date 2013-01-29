@@ -1,0 +1,59 @@
+**Begin: file 1 : GigaDBUploadForm_SOAPdenovoWorkflow.xls in process...
+ValidationTest for file/sample_id: The file name: README.pdf No reference any sample/sample_id
+ValidationTest for file/sample_id: The file name: Assemblathon1_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Assemblathon1_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Bombus_impatiens_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Bombus_impatiens_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Rhodobacter_sphaeroides_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Rhodobacter_sphaeroides_pipelineWarning: file_format is unknown
+ValidationTest for file/sample_id: The file name: Staphylococcus_aureus_pipeline.tgz No reference any sample/sample_id
+ValidationTest for file_format: Staphylococcus_aureus_pipelineWarning: file_format is unknown
+ValidationTest for file_format: YH_pipelineWarning: file_format is unknown
+ValidTest for doi: '10.1186/2047-217X-1-1'. Warning: can't not pull the information of pmid from it
+**************************
+SQL statement: insert into file values( 12303, 41, null, 'Rhodobacter_sphaeroides_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/Rhodobacter_sphaeroides_pipeline.tgz', 'Rhodobacter_sphaeroides_pipeline', 5124496, '', '2012/12/13', 6, 13, null );
+org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+**************************
+GigaDBUploadForm_SOAPdenovoWorkflow.xls
+**End error: GigaDBUploadForm_SOAPdenovoWorkflow.xls
+org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2103)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1836)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:512)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:374)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:366)
+	at Database.execute(Database.java:368)
+	at Main.processExcel2Database(Main.java:97)
+	at Main.processExcel(Main.java:135)
+	at Main.main(Main.java:175)
+java.sql.SQLException: org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+	at Database.execute(Database.java:379)
+	at Main.processExcel2Database(Main.java:97)
+	at Main.processExcel(Main.java:135)
+	at Main.main(Main.java:175)
+Caused by: org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2103)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1836)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:512)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:374)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:366)
+	at Database.execute(Database.java:368)
+	... 3 more
+java.sql.SQLException: org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+	at Database.execute(Database.java:379)
+	at Main.processExcel2Database(Main.java:97)
+	at Main.processExcel(Main.java:135)
+	at Main.main(Main.java:175)
+Caused by: org.postgresql.util.PSQLException: ERROR: value too long for type character varying(30)
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2103)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:1836)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:257)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:512)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.executeWithFlags(AbstractJdbc2Statement.java:374)
+	at org.postgresql.jdbc2.AbstractJdbc2Statement.execute(AbstractJdbc2Statement.java:366)
+	at Database.execute(Database.java:368)
+	... 3 more
+The following files has some errors, thus they are not uploaded!
+[GigaDBUploadForm_SOAPdenovoWorkflow.xls]

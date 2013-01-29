@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100007</identifier>
+	<creators>
+		<creator>
+			<creatorName>Li, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gilbert, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, T</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the domestic pigeon (Columba livia)</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-07-06</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>298 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The domestic pigeon (Columba livia domestica) is one of the most common birds on planet Earth, located on every continent besides Antarctica.  The sub-species sequenced was a breed known as the Danish Tumbler, a show pigeon with a distinct color markings.
+
+The domestic pigeon genome sequence provides a better understanding of such a widespread creature, including certain mechanisms that scientists still fail to understand fully, such as the magnetosensitivity.  The sequencing data also presents insight into the species’ similarities to and differences from other birds, and to how breeding might have shaped its genome as this sub-species was taken from Asian colonies to Denmark 400 years ago and selectively bred.
+
+In 2010, BGI used the whole genome shotgun sequencing and IlluminaHiseq 2000 system to generate 98X short reads for a Danish Tumbler.  The raw data was then used by the assembler SOAPdenovo to produce a draft assembly of 1.1 Gb with N50 scaffold length of 3.1Mb and N50 contig length of 22.4 Kb.  Based on the k-mer distribution of sequencing data, the genome size of Columba livia is estimated to be 1.3 Gb, suggesting the current assembly is about 84% complete.  The percentage of GC content (41.5%) and the percentage of repetitive content (8.7%) in the pigeon are also similar in nature to three other avian genomes (chicken, zebra finch, turkey); the uncovered regions of the genome appear to be enriched in repeats.  A total of 17,300 protein-coding genes are predicted in the assembly.</description>
+	</descriptions>
+</resource>
+

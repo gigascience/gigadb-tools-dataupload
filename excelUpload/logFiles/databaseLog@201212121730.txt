@@ -1,0 +1,8 @@
+**Begin: file 1 : GigaDBUploadForm_SOAPdenovo2.xls in process...
+The dataset: '10.5524/100038 has already in database. Start compare old dataset with new dataset
+The author is new added into dataset: Liu, B
+You need new XML file : author has changed
+End success.
+**End success: GigaDBUploadForm_SOAPdenovo2.xls
+The following files has some errors, thus they are not uploaded!
+[]
