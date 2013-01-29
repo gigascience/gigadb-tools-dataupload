@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100023</identifier>
+	<creators>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Talbot, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Worley, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jiang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Barris, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Dalrymple, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Maddox, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Farault, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Brauning, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Archibald, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kijas, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cockett, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>McEwan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Oddy, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nicholas, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristensen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, W</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome data from the sheep</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	<date dateType="Updated">2012-04-17</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">This is the first version of the draft sheep (Ovis aries) reference genome (OAR v2.0).
+
+A single Texel ewe and a single Texel ram were independently sequenced by next-generation sequencing platforms.  The genome was assembled using a similar method to that used for the first de novo assembled genome using only next-generation sequencing platforms, the giant panda.  However, here more paired-end libraries and longer insert libraries were used. Firstly, using SOAPdenovo, the 75X Texel ewe Illumina reads were assembled de novo into contigs and scaffolds.  Then, 120X Illumina sequence from both the Texel ewe (BGI) and ram (Roslin) was used for gap filling so as to improve the assembly.  At this point, the N50 length of contig was 18 kb, and the N50 length of the assembled scaffolds was 1.1Mb, achieving a total length of 2.71 Gb and covering ~93% of the expected ~3Gb length of the sheep genome.
+
+The CHORI-243 BAC library end sequences were used to generate a set of super-scaffolds with an N50 of 37 Mb.  Then a high density RH map and a linkage map with 39,042 SNP makers (derived from the Ovine SNP50 BeadChip) were used to anchor the super-scaffolds to chromosomes.  Several rounds of manual checking and final error correction were carried out using the end sequences of the BACs in the bovine CHORI-243 library and 454 mate pair sequence data derived from 8kb and 20kb insert libraries of the male Texel (BCM).  Ambiguous positions were resolved using the predicted location of the SNPs based on OARv1.0 and conserved synteny with the UMD3 bovine genome assembly.  For the final release version, OAR v2.0, 95% (2.57 Gb) of the total scaffold sequence was placed onto the 26 autosomes and the X chromosome.</description>
+	</descriptions>
+</resource>
+

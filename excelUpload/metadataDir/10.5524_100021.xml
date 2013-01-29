@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100021</identifier>
+	<creators>
+		<creator>
+			<creatorName>Wang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sun, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bai, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mun, JH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bancroft, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hua, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Freeling, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pires, JC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Paterson, AH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chalhoub, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hayward, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sharpe, AG</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Park, BS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Weisshaar, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tong, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Song, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Duran, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peng, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Geng, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Koh, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lin, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Edwards, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shen, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Soumpourou, E</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fraser, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Conant, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lassalle, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>King, GJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bonnema, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Belcram, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hirakawa, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Abe, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jin, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Parkin, IA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Batley, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kim, JS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Just, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Deng, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kim, JA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Meng, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Min, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Poulain, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hatakeyama, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Trick, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Links, MG</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jin, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ramchiary, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Drou, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Berkman, PJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cai, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tabata, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sato, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sun, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kwon, SJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Choi, SR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lee, TH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tan, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qiu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yin, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Du, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liao, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lim, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Narusaka, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiong, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Brassica rapa Genome Sequencing Project Consortium</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from Chinese cabbage (Brassica rapa) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/ng.919</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>197 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Available here is genomic data for the polyploid plant Brassica rapa ssp. pekinensis line Chiifu-401-42, a Chinese cabbage.  As there are several oil and vegetable crop species in the Brassica family, this genome is of great agricultural relevance.  It also provides an important resource for studying the evolution of polyploid genomes.
+
+The Brassica rapa Genome Sequencing Project Consortium assembled a 283.8 Mb genome estimated to cover >98% of the gene space.  Using 72X coverage of paired short read sequences generated by Illumina GA II technology and 199,452 BAC-end sequences, 159 super scaffolds were produced, representing 90% of the assembled sequences with an N50 scaffold size of 1.97 Mb.  Using genetic mapping of 1,427 markers in B. rapa, ten pseudo chromosomes that included 90% of the assembly were produced.  A total of 41,174 protein-coding genes in the B. rapa genome were modeled, and the genome was found to have undergone genome triplication.</description>
+	</descriptions>
+</resource>
+

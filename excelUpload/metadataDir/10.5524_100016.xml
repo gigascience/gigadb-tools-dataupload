@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100016</identifier>
+	<creators>
+		<creator>
+			<creatorName>Potato Genome Sequencing Consortium</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ni, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Orjeda, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guzman, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Torres, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lozano, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ponce, O</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Martinez, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>De la Cruz, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chakrabarti, SK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Patil, VU</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Skryabin, KG</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kuznetsov, BB</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ravin, NV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kolganova, TV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Beletsky, AV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mardanov, AV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Di Genova, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bolser, DM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Martin, DM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kuang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hu, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiong, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bishop, GJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sagredo, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Mejia, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zagorski, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gromadka, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gawor, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Szczesny, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>He, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>He, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Du, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bonierbale, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ghislain, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>del Rosario Herrera, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Giuliano, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pietrella, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Perrotta, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Facella, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>O’Brien, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Feingold, SE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Barreiro, LE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Massa, GA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Diambra, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Whitty, BR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Vaillancourt, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lin, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Massa, AN</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Geoffroy, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lundback, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>DellaPenna, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Buell, CR</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sharma, SK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Marshall, DF</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Waugh, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bryan, GJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Destefanis, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nagy, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Milbourne, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Thomson, SJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fiers, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jacobs, JM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, KL</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sonderkar, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Iovene, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Torres, GA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jiang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Veilleux, RE</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bachem, CW</creatorName>
+		</creator>
+		<creator>
+			<creatorName>de Boer, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Borm, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kloosterman, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>van Eck, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Datema, E</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hekkert, BL</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Goverse, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>van Ham, RC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Visser, RG</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the potato </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature10158</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Available here is the genome of the potato (Solanum tuberosum L.), the first genome sequenced from the asterid clade.  Potato is a member of the Solanaceae, a plant family that includes many other economically important species, such as tomato, petunia, eggplant, tobacco, and pepper.  As the potato is both clonally propagated and the world;s most important non-grain food crop, its genome is a valuable agricultural resource.
+
+The Potato Genome Sequencing Consortium sequenced two species: the heterozygous diploid S. tuberosum Group Tuberosum cultivar, RH89-039-16 (RH), and the doubled monoploid S. tuberosum Group Phureja clone DM1-3 516R44 (DM).  The potato genome consists of 12 chromosomes, of which over 80% of the homozygous clone’s 844-megabase genome were assembled.  Genome analysis revealed evidence of at least two genome duplication events and identified a number of asterid-specific genes.  Comparison between the two clones identified frequent gene variations and mutations, which may cause inbreeding depression.</description>
+	</descriptions>
+</resource>
+

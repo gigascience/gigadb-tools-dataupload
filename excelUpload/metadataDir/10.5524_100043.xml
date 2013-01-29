@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100043</identifier>
+	<creators>
+		<creator>
+			<creatorName>Gao, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ji, G</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Bisulfite-PCR combined with cloning Sanger sequencing data for validating DNA methylation level in Trichinella spiralis</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Epigenomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-10-08</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>281 KB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Trichinella spiralis is the smallest nematode parasite of humans and is also infectious in the rat, pig and bear species. Responsible for the disease trichinosis, it is often referred to as the “pork worm” due to infection usually being caused by the consumption of undercooked pork products. Adults mature in the intestines of an intermediate host, and each female produces batches of larvae that bore through the intestinal wall and the lymphatic system. They are then carried to striated muscle where they encyst.
+
+To date 5'-cytosine methylation (5mC) has not been reported in Caenorhabditis elegans, and using ultra-performance liquid chromatography/tandem mass spectrometry (UPLC-MS/MS) the existence of DNA methylation in T. spiralis was detected, making it the first 5mC reported in any species of nematode. Technological advances now enable the high-resolution detection of 5'-cytosine methylation, providing a stronger basis for examining the role of DNA methylation in eukaryotic genomes such as these. 
+
+Using MethylC-seq, here we present the first comprehensive study that confirms the existence of DNA methylation in the parasitic nematode, T. spiralis and we characterised the methylomes during the three life-cycle stages of this food-borne infectious parasite of humans. We generated 61.65, 23.52 and 55.77 million raw reads, almost all of which (96.36%, 91.30% and 99.27%, respectively) were able to be aligned to the T. spiralis reference sequence, yielding 2.91, 1.05 and 2.71 Gb of DNA sequence data for the three life-cycle stages. To further validate the DNA methylation level we randomly selected genomic regions and performed Bisulfite-PCR combined with cloning Sanger sequencing. This additional data further supports the existence of DNA methylation in the parasitic nematode, T. spiralis.</description>
+	</descriptions>
+</resource>
+

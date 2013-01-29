@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100029</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peng, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pei, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liao, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gao, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Y</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from chronic hepatitis B infected humans and healthy controls</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-12-19</date>
+	<date dateType="Updated">2012-07-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1002/hep.25850</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>261 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Chronic hepatitis B (CHB) infection remains endemic in large parts of the world and, as such, is a major global health issue. However, a thorough understanding of the genetic variants involved in CHB infection susceptibility remains lacking.
+
+This dataset comprises the raw exome sequencing data, SNP sets and InDel sets for 50 CHB patients and 40 healthy controls. The exome sequences were captured by NimbleGen2.1M array targeting 34 Mb of the human genome, containing 180,000 coding exons and 551 miRNA genes. The enriched library was then sequenced on Illumina HighSeq2000 and sequencing reads were aligned to human reference genome (NCBI build 36.3). The average sequencing depth per sample is 43X after the removal of read duplicates. These data provide a resource for identifying genetic variants predisposing humans to CHB infections.</description>
+	</descriptions>
+</resource>
+

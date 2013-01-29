@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100008</identifier>
+	<creators>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Willersleve, E</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the polar bear (Ursus maritimus)</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-07-06</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>1 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The polar bear (Ursus maritimus) is one of the largest land carnivores, second only to the Alaskan brown bear.  In an effort to adapt to the extremely cold Arctic environment, it has evolved many unique characteristics.  However, ecological pressures pose a grave threat to the survival of polar bears.  The polar bear genome provides significant contributions to research concerning evolution, biodiversity and climate change.
+
+In 2010, the BGI completed the first draft of the genome sequence of a 25 years old male polar bear.  Using next-generation sequencing technology (Illumina GA) to obtain about 101-fold genome coverage, and SOAPdenovo, the self-developed short reads assembly method, a high quality draft genome sequence was assembled with an N50 scaffold size of 15.9 megabases (Mb), and function elements annotation was finished.  A reference gene set that contained around 21,000 genes for the polar bear was predicted.  The transposable elements comprised approximately 37% of the polar bear genome.</description>
+	</descriptions>
+</resource>
+

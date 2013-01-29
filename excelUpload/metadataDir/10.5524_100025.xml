@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100025</identifier>
+	<creators>
+		<creator>
+			<creatorName>Huang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fan, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lucas, WJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ni, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ren, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lin, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jin, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fei, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Staub, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kilian, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>van der Vossen, EA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>He, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jia, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ren, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tian, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ruan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qian, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xuan, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Asan</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cai, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bai, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Han, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shi, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cho, WK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kim, JY</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Heller-Uszynska, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Miao, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheng, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ren, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shi, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wen, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jian, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ma, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bolund, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristiansen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sun, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jiang, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Du, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data for the domestic cucumber (Cucumis sativus var sativus L) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+		<subject>Transcriptomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1159/000151320</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/ng.475</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1371/journal.pone.0005795</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>77 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here we present genomic data for the domestic cucumber (Cucumis sativus var. sativus L.).  The cucumber is a member of the Cucurbitaceae or cucurbit family, a family of great agricultural and horticultural importance that also includes species such as melons, gourds and squashes.  A biologically interesting as well as an economically relevant species, it is used as a model system for plant sex determination and vascular biology studies.
+
+The domestic cucumber has seven pairs of chromosomes and a haploid genome of 367 Mb, a smaller genome for the Cucurbitaceae family.  The genome was sequenced and assembled with N50 contig and scaffold sizes of 19.8 Kb and 1.14 Mb, respectively.  Using the genetic map, 72.8% of the assembled sequences were anchored onto the 7 chromosomes.  A total of 26,682 genes were predicted in the current cucumber genome.</description>
+	</descriptions>
+</resource>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100040</identifier>
+	<creators>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>The genome of Darwin’s Finch (Geospiza fortis) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-08-03</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<sizes>
+		<size>297 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The Medium Ground Finch Geospiza fortis, is one of species of finches first collected by Charles Darwin on the Galapagos islands, and is emblematic for its involvement in the development of evolutionary theory by Darwin and for confirming the action of natural selection. Also know as a Darwin finch, we have sequenced a female individual at 115X coverage of HiSeq data, and produced a high quality draft genome assembly. The genome size of Geospiza fortis is at about 1.07 Gb. The scaffold N50 size of this assembly is at about 5.2Mb and contig N50 size is about 30Kb. A total of 16,286 protein coding genes were annotated. As well as being a model for the study of evolutionary biology, the availability of this genome will also be helpful for the subsequent population studies of this species. As another songbird genome, this will allow researchers to validate the findings of vocal learning gene and behavior interaction that has been carried out in the previously studied zebra finch.</description>
+	</descriptions>
+</resource>
+

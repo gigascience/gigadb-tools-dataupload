@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100037</identifier>
+	<creators>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Song, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hou, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Jian, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Single cell whole-exome sequences of bladder cancer from an individual</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-07-09</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1186/2047-217X-1-12 </relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>152 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">This dataset contains single-cell and whole-tissue sequencing and annotation data from a muscle-invasive bladder transitional cell carcinoma from one individual. The data available includes: single-cell whole-exome sequences from 55 individual cells, including 44 from the tumor and 11 from normal adjacent tissue; whole-tissue DNA sequence data from this cancer and the matched normal. Additional data includes alignments, SNP calling, and high confidence somatic mutation calling and their allelic frequencies.</description>
+	</descriptions>
+</resource>
+

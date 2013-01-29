@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100044</identifier>
+	<creators>
+		<creator>
+			<creatorName>Luo, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yuan, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>He, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, Q</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Shi, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Han, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Cheung, D</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yiu, SM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Peng, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lam, TW</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Software and supporting material for “SOAPdenovo2: An empirically improved memory-efficient short read de novo assembly”</title>
+	</titles>
+	<publisher>GigaScience Database</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Workflow</subject>
+		<subject>Software</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-12-13</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1186/2047-217X-1-1</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="Compiles">10.5524/100038</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>31 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">SOAPdenovo2 is the latest de novo genome assembly package from BGI’s SOAP (short oligonucleotide analysis package) suite of tools (homepage here: http://soap.genomics.org.cn/). Compared to SOAPdenovo1, this new version has the advantage of a new algorithm design that reduces memory consumption in graph construction, resolves more repeat regions in contig assembly, increases coverage and length in scaffold construction, improves gap closure, and is optimized for large genomes. Using new sequencing data from the YH (Homo sapiens) diploid genome – the first sequenced Han Chinese individual, an updated assembly was produced (see dataset here: doi:10.5524/100038), with the N50 scores for the contig and scaffold being 3-fold and 50-fold longer, respectively, than the first published version. The genome coverage increased from 81.16% to 93.91%, and memory consumption was ~2/3 times lower during the point of largest memory consumption.  Benchmarking with Assemblathon1 and GAGE datasets shows that SOAPdenovo2 greatly surpasses its predecessor SOAPdenovo1 and is competitive to other assemblers on both assembly length and accuracy.
+
+In order to facilitate readers to repeat and recreate these findings, configured packages with the compressed pipelines containing all of the necessary shell scripts and tools are available from the BGI FTP server (ftp://public.genomics.org.cn/BGI/SOAPdenovo2).
+
+The latest version of SOAPdenovo2 is available from Sourceforge: http://soapdenovo2.sourceforge.net/
+
+These pipelines will also soon be made available from our data platform as Galaxy workflows: http://galaxy.cbiit.cuhk.edu.hk/</description>
+	</descriptions>
+</resource>
+

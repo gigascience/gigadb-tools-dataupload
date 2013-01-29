@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100013</identifier>
+	<creators>
+		<creator>
+			<creatorName>Tian, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ou, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hu, X</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Transcriptome from a lymphoblastoid cell line taken from the YH Han Chinese individual </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Transcriptomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	<date dateType="Updated">2012-02-17</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nbt.2122</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.5524/100015</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>73 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The transcriptome available here was generated from the same sample of peripheral blood mononuclear cells (PBMCs) from a consented donor (Homo sapiens) whose genome was deciphered in the YH project.  YH is an anonymous male Han Chinese individual who has no known genetic diseases, and whose genome also serves as an Asian reference genome.  These data were used to detect RNA-editing events using a pipeline that filtered and compared RNA-seq transcriptome and whole genome sequencing data (doi:10.1038/nbt.2122).
+
+RNA was extracted from viable lymphoblastoid cell line of the YH individual, treated with DNase I to remove residual DNA, and double-stranded cDNA was synthesized from these RNA samples using random hexamer-primer and reverse transcriptase.  For some of the libraries, samples were treated with Duplex-Specific thermostable nuclease (DSN) enzyme prior to cluster generation.
+
+Sequencing libraries for strand specific transcriptome analysis were synthesized from fragmented RNA with random hexamer primers.  After purification to remove dNTPs, second-strand synthesis was performed.  Upon ligation with the Illumina PE adapters, the products were gel-recovered and subsequently digested with N-Glycosylase to remove the second-strand cDNA.  Samples were then amplified by 15 cycles of PCR with Phusion polymerase and PCR primers with barcode sequence.
+
+The libraries were prepared based on the Illumina pair end library protocol and subsequently sequenced by the Illumina HiSeq 2000 platform.  Eight lanes of the flow cell were applied to the poly(A)+ RNA library, which was sequenced for 75 or 100 bp; five lanes were used for the poly(A)−  RNA library, which was sequenced for 90 bp.</description>
+	</descriptions>
+</resource>
+

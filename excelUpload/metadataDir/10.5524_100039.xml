@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100039</identifier>
+	<creators>
+		<creator>
+			<creatorName>Oleksyk, TK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guiblet, W</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pombert, JF</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Valentin, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Martinez-Cruzado, JC</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data of the Puerto Rican Parrot (Amazona vittata) from a locally funded project </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-09-11</date>
+	<date dateType="Updated">2012-09-14</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1186/2047-217X-1-14</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>2 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">These data represent the first assembly of a genome sequence for a critically endangered parrot (Amazona vittata) endemic to the United States, and also the first genome of a species from the diverse and ecologically important genus Amazona native to South America and the Caribbean. One sample has been selected from the non-reproductive female at Rio Abajo Breeding Facility in Puerto Rico (IACUC#201109.1), and sequenced on Illumina HiSeq platform with both fragment and paired-end sequencing approaches, resulting in a total of 42,479,499,706 bases. We predicted a total coverage depth of 26.89X of the parrot’s genome: 17.08X coverage for the short fragment reads, and 9.8X coverage for the mate pairs. The sequencing was initiated with the construction of two genome libraries: a short fragment library (~300 bp inserts) for sequencing the majority of the genome, and a long fragment library (~2.5 Kb inserts) to generate scaffolds to be used to order and assemble contigs derived from the short fragment library. The Illumina paired-end and mate-pairs reads were assembled together with Ray (http://denovoassembler.sourceforge.net), with the k-mer defined iteratively. In total, given that the genome size is predicted to be 1.58Gb, with the total scaffold length of 1,184, 594,388 bp, the overall coverage of the genome is around 76%, a value that might be slightly overestimated given that some of the scaffolds may be overlapping but could not be assembled. Filtering followed by assembly resulted in 259,423 contigs (N50=6,983 bp, longest = 75,003 bp), which was further combined into 148,255 scaffolds (N50 = 19,470, longest = 206,462 bp). The database contains all of the contigs, scaffolds, corresponding assembly parameters, and the annotations for the known repeats and coding sequences. The assembled scaffolds allow basic genomic annotation and comparative analyses with other available avian whole-genome sequences.</description>
+	</descriptions>
+</resource>
+

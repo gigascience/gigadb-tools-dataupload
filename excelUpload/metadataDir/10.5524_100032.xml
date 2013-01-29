@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100032</identifier>
+	<creators>
+		<creator>
+			<creatorName>Li, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xiong, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wu, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yan, Z</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>The genome of Schistosoma haematobium</title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-04-19</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/ng.1065</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>118 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Schistosoma haematobium is an important digenetic trematode, and is found in the Middle East, India, Portugal and Africa. It is a major agent of schistosomiasis. More specifically, it is associated with urinary schistosomiasis. Adults are found in the Venous plexuses around the urinary bladder and the released eggs traverse the wall of the bladder causing haematuria and fibrosis of the bladder. The bladder becomes calcified, and there is increased pressure on ureters and kidneys otherwise known as hydronephrosis. Inflammation of the genitals due to S.haematobium may contribute to the propagation of HIV. 
+
+In this study, we sequenced the S.haematobium genome from 200 ng of genomic DNA template isolated from a single, mated pair of adult worms, and produced 33.5 Gb of usable sequence data, using Illumina-based technology at 74-fold coverage and comparedit to sequences from related parasites. We consistently showed low sequence heterozygosity and estimated the genome size to be 431-452 Mb, then assembled the data and used local assemblies to close most (96.1%) of the remaining gaps, achieving a final assembly of 385 Mb (365 contigs; N50 scaffold size 307 Kb). Also we included genome annotation based on function, gene ontology, networking and pathway mapping. This genome now provides an unprecedented resource for many fundamental research areas and shows great promise for the design of new disease interventions.</description>
+	</descriptions>
+</resource>
+

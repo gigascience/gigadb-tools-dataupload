@@ -1,0 +1,11 @@
+**Begin: file 1 : GigaDBUploadForm_SOAPdenovo2.xls in process...
+java.lang.NullPointerException
+	at Excel2Database.fillTable_file(Excel2Database.java:1112)
+	at Excel2Database.fillTable(Excel2Database.java:2924)
+	at Main.processExcel2Database(Main.java:67)
+	at Main.processExcel(Main.java:135)
+	at Main.main(Main.java:175)
+**End error: GigaDBUploadForm_SOAPdenovo2.xls
+
+The following files has some errors, thus they are not uploaded!
+[GigaDBUploadForm_SOAPdenovo2.xls]

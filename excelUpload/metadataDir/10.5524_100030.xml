@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100030</identifier>
+	<creators>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Luo, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xu, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qi, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhu, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Huang, Z</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from the Pacific oyster (Crassostrea gigas) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+		<subject>Transcriptomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-09-14</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature11413</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>386 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">The Pacific oyster (Crassostrea gigas) belongs to one of the most species-rich but genomically poorly explored phyla, the Mollusca.  In this study, DNA was extracted from an oyster derived from four generations of full-sib mating.  Short-reads and a fosmid-pooling  strategy were used for sequencing and assembly of the oyster genome.  DNA extracted from the inbred oyster and another wild oyster was used for resequencing analysis.  Finally, RNA-seq and small RNA from different organs at different developmental stages were extracted for developmental studies.</description>
+	</descriptions>
+</resource>
+

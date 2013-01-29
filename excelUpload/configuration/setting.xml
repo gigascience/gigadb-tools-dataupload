@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<setting>
+	<schemaFile>configuration/gigascience.sql</schemaFile>
+	<excelDir>dataDir</excelDir>
+	<uploadDir>uploadDir</uploadDir>
+	<databaseUrl>jdbc:postgresql://192.168.171.46:5432/GigaDB_new/</databaseUrl>
+	<databaseUserName>jesse</databaseUserName>
+	<databasePassword>1234</databasePassword>
+</setting>

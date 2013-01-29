@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100026</identifier>
+	<creators>
+		<creator>
+			<creatorName>Rasmussen, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lindgreen, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pedersen, JS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Albrechtsen, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Moltke, I</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Metspalu, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Metspalu, E</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kivisild, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gupta, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bertalan, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gilbert, MT</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Raghavan, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Campos, PF</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kamp, HM</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wilson, AS</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gledhill, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tridico, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bunce, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Lorenzen, ED</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Binladen, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhao, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Chen, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Orlando, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristiansen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bak, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Tommerup, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bendixen, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pierre, TL</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Gronnow, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Meldgaard, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Andreasen, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fedorova, SA</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Osipova, LP</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Higham, TF</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ramsey, CB</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hansen, TV</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, FC</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Crawford, MH</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Brunak, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Sicheritz-Ponten, T</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Villems, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Krogh, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Willerslev, E</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genomic data from an extinct Palaeo-Eskimo </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/nature08835</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>227 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Available here is the genome of a male individual from an extinct Palaeo-Eskimo culture, the first known group of Homo sapiens to settle in Greenland.
+
+The DNA sample was obtained from ~4,000-year-old permafrost-preserved hair, and was shown to have very low modern DNA contamination.  The diploid genome was sequenced to an average depth of 20x using Illumina GAII sequencing platforms, with 79% recovery.  Correct indexed reads were mapped to the human genome (hg18) with a suffix array-based method that allows for residual primer trimming.  Sequencing yielded a total of 3.5 billion reads.</description>
+	</descriptions>
+</resource>
+

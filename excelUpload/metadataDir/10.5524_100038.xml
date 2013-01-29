@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100038</identifier>
+	<creators>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Luo, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Liu, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Xie, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, Z</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qin, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, B</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yu, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ni, P</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, N</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Guo, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ye, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Fang, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Su, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Asan</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zheng, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Kristiansen, K</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wong, GK</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Nielsen, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Durbin, R</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Bolund, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, X</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Yang, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Updated genome assembly of YH: the first diploid genome sequence of a Han Chinese individual (version 2, 07/2012)</title>
+	</titles>
+	<publisher>GigaScience Database</publisher>
+	<publicationYear>2012</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2012-12-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsNewVersionOf">10.5524/100015</relatedIdentifier>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsCompiledBy">10.5524/100044</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>78 GB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Updated genomic data from the YH (Homo sapiens) diploid genome – the first sequenced Han Chinese individual, a representative of the Asian population.  The genomic DNA used in this study came from an anonymous male Han Chinese individual who has no known genetic diseases.
+
+The original version of the YH genome was assembled based on 3.3 billion reads using the Illumina Genome Analyzer (see dataset doi:10.5524/100015).  This latest (as of 07/2012) and improved version of the YH genome was assembled based on 2.1 billion reads using the Illumina HiSeq2000. A total of 202G nucleotides data was achieved using 100 bp-long paired end reads with an insert size ranging from 180 bp to 40 kbp, and the genome was sequenced to 67.5-fold average coverage. The latest version of SOAPdenovo2 was used to reassemble, improve and update the previously assembled genome (tools and pipelines available here: doi:10.5524/100044). By aligning the short reads with SOAP, 177G nucleotides were mapped onto the NCBI reference genome and 99.99% of the genome was covered. The raw sequences, assemblies and relevant tools are released for public use under a CC0 license.
+
+More information about the YH genome can be viewed at: http://yh.genomics.org.cn/</description>
+	</descriptions>
+</resource>
+

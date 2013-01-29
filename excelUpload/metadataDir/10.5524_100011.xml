@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+	<identifier identifierType="DOI">10.5524/100011</identifier>
+	<creators>
+		<creator>
+			<creatorName>Nygaard, S</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhang, G</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Schitt, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Li, C</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wurm, Y</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hu, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Zhou, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Ji, L</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Qiu, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Rasmussen, M</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Pan, H</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Hauser, F</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Krogh, A</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Grimmelikhuijzen, CJ</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Wang, J</creatorName>
+		</creator>
+		<creator>
+			<creatorName>Boomsma, JJ</creatorName>
+		</creator>
+	</creators>
+	<titles>
+		<title>Genome data from the leaf-cutting ant (Acromyrmex echinatior) </title>
+	</titles>
+	<publisher>GigaScience</publisher>
+	<publicationYear>2011</publicationYear>
+	<subjects>
+		<subject>Genomic</subject>
+	</subjects>
+	<dates>
+	<date dateType="Available">2011-11-12</date>
+	</dates>
+	<language>eng</language>
+	<resourceType resourceTypeGeneral="Dataset">GigaDB Dataset</resourceType>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1101/gr.121392.111</relatedIdentifier>
+	</relatedIdentifiers>
+	<sizes>
+		<size>125 MB</size>
+	</sizes>
+	<rights>http://creativecommons.org/publicdomain/zero/1.0/</rights>
+	<descriptions>
+		<description descriptionType="Abstract">Here is presented high-quality (>100x depth) Illumina genome sequence of the leaf-cutting ant Acromyrmex echinatior, a model species for symbiosis and reproductive conflict studies.  They make a particularly good model as after humans, leaf-cutting ants form the largest and most complex animal societies on Earth.  Part of the subfamily Myrmicinae, this particular species is found in the wild from Mexico to Panama and subsists mostly on a particular fungus of the genus Leucocoprinus, which it cultivates on a medium of masticated leaf tissue.  With an estimated total size of 313 Mb, the genome is 28% made up of repeat sequences and has a GC content of 34%.</description>
+	</descriptions>
+</resource>
+

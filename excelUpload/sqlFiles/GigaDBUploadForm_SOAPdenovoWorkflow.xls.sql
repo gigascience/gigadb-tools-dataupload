@@ -1,0 +1,78 @@
+insert into image select 38, '100044_SOAPdenovo2.jpg', 'SOAPdenovo2 workflow', 'http://192.168.171.46/TestGigaDB/Images/SOAPdenovo2_workflow.jpg', 'CC0', 'Peter Li', 'Peter Li, GigaScience' where not exists ( select null from image where id = 38 ); 
+insert into dataset values( 41, 23, 38, '10.5524/100044', 'Software and supporting material for “SOAPdenovo2: An empirically improved memory-efficient short read <em>de novo</em> assembly”', 'SOAPdenovo2 is the latest <em>de novo</em> genome assembly package from BGI’s SOAP (short oligonucleotide analysis package) suite of tools (homepage here: <a href="http://soap.genomics.org.cn/">http://soap.genomics.org.cn/</a>). Compared to SOAPdenovo1, this new version has the advantage of a new algorithm design that reduces memory consumption in graph construction, resolves more repeat regions in contig assembly, increases coverage and length in scaffold construction, improves gap closure, and is optimized for large genomes. Using new sequencing data from the YH (<em>Homo sapiens</em>) diploid genome – the first sequenced Han Chinese individual, an updated assembly was produced (see dataset here: <a href="http://dx.doi.org/10.5524/100038">doi:10.5524/100038</a>), with the N50 scores for the contig and scaffold being 3-fold and 50-fold longer, respectively, than the first published version. The genome coverage increased from 81.16% to 93.91%, and memory consumption was ~2/3 times lower during the point of largest memory consumption.  Benchmarking with Assemblathon1 and GAGE datasets shows that SOAPdenovo2 greatly surpasses its predecessor SOAPdenovo1 and is competitive to other assemblers on both assembly length and accuracy.
+
+In order to facilitate readers to repeat and recreate these findings, configured packages with the compressed pipelines containing all of the necessary shell scripts and tools are available from the BGI FTP server (<a href="ftp://public.genomics.org.cn/BGI/SOAPdenovo2">ftp://public.genomics.org.cn/BGI/SOAPdenovo2</a>).
+
+The latest version of SOAPdenovo2 is available from Sourceforge: <a href="http://soapdenovo2.sourceforge.net/">http://soapdenovo2.sourceforge.net/</a>
+
+These pipelines will also soon be made available from our data platform as Galaxy workflows: <a href="http://galaxy.cbiit.cuhk.edu.hk/">http://galaxy.cbiit.cuhk.edu.hk/</a>', 268435456000, 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/', 'Published', 'GigaDBUploadForm_SOAPdenovoWorkflow.xls', 'c6841a178f2a71b9375aacfc92e30a5e', '2012/12/13', null, 3 );
+insert into author select 1206, 'Luo, R', '', 1 where not exists ( select null from author where id = 1206 ); 
+insert into author select 1207, 'Liu, B', '', 2 where not exists ( select null from author where id = 1207 ); 
+insert into author select 1208, 'Xie, Y', '', 3 where not exists ( select null from author where id = 1208 ); 
+insert into author select 1209, 'Li, Z', '', 4 where not exists ( select null from author where id = 1209 ); 
+insert into author select 1210, 'Huang, W', '', 5 where not exists ( select null from author where id = 1210 ); 
+insert into author select 1211, 'Yuan, J', '', 6 where not exists ( select null from author where id = 1211 ); 
+insert into author select 1212, 'He, G', '', 7 where not exists ( select null from author where id = 1212 ); 
+insert into author select 1213, 'Pan, Q', '', 9 where not exists ( select null from author where id = 1213 ); 
+insert into author select 1214, 'Liu, Y', '', 10 where not exists ( select null from author where id = 1214 ); 
+insert into author select 1215, 'Tang, J', '', 11 where not exists ( select null from author where id = 1215 ); 
+insert into author select 1216, 'Wu, G', '', 12 where not exists ( select null from author where id = 1216 ); 
+insert into author select 1217, 'Zhang, H', '', 13 where not exists ( select null from author where id = 1217 ); 
+insert into author select 1218, 'Shi, Y', '', 14 where not exists ( select null from author where id = 1218 ); 
+insert into author select 1219, 'Liu, Y', '', 15 where not exists ( select null from author where id = 1219 ); 
+insert into author select 1220, 'Yu, C', '', 16 where not exists ( select null from author where id = 1220 ); 
+insert into author select 1221, 'Wang, B', '', 17 where not exists ( select null from author where id = 1221 ); 
+insert into author select 1222, 'Lu, Y', '', 18 where not exists ( select null from author where id = 1222 ); 
+insert into author select 1223, 'Han, C', '', 19 where not exists ( select null from author where id = 1223 ); 
+insert into author select 1224, 'Cheung, D', '', 20 where not exists ( select null from author where id = 1224 ); 
+insert into author select 1225, 'Yiu, SM', '', 21 where not exists ( select null from author where id = 1225 ); 
+insert into author select 1226, 'Liu, G', '', 22 where not exists ( select null from author where id = 1226 ); 
+insert into author select 1227, 'Zhu, X', '', 23 where not exists ( select null from author where id = 1227 ); 
+insert into author select 1228, 'Peng, S', '', 24 where not exists ( select null from author where id = 1228 ); 
+insert into author select 1229, 'Li, Y', '', 25 where not exists ( select null from author where id = 1229 ); 
+insert into author select 1230, 'Lam, TW', '', 28 where not exists ( select null from author where id = 1230 ); 
+insert into dataset_author values( 1341, 41, 1206 );
+insert into dataset_author values( 1342, 41, 1207 );
+insert into dataset_author values( 1343, 41, 1208 );
+insert into dataset_author values( 1344, 41, 1209 );
+insert into dataset_author values( 1345, 41, 1210 );
+insert into dataset_author values( 1346, 41, 1211 );
+insert into dataset_author values( 1347, 41, 1212 );
+insert into dataset_author values( 1348, 41, 223 );
+insert into dataset_author values( 1349, 41, 1213 );
+insert into dataset_author values( 1350, 41, 1214 );
+insert into dataset_author values( 1351, 41, 1215 );
+insert into dataset_author values( 1352, 41, 1216 );
+insert into dataset_author values( 1353, 41, 1217 );
+insert into dataset_author values( 1354, 41, 1218 );
+insert into dataset_author values( 1355, 41, 1219 );
+insert into dataset_author values( 1356, 41, 1220 );
+insert into dataset_author values( 1357, 41, 1221 );
+insert into dataset_author values( 1358, 41, 1222 );
+insert into dataset_author values( 1359, 41, 1223 );
+insert into dataset_author values( 1360, 41, 1224 );
+insert into dataset_author values( 1361, 41, 1225 );
+insert into dataset_author values( 1362, 41, 1226 );
+insert into dataset_author values( 1363, 41, 1227 );
+insert into dataset_author values( 1364, 41, 1228 );
+insert into dataset_author values( 1365, 41, 1229 );
+insert into dataset_author values( 1366, 41, 1182 );
+insert into dataset_author values( 1367, 41, 1183 );
+insert into dataset_author values( 1368, 41, 1230 );
+insert into dataset_author values( 1369, 41, 887 );
+insert into relation values( 7, 41, '10.5524/100038', 'Compiles' );
+insert into type select 6, 'Software', '' where not exists ( select null from type where id = 6 ); 
+insert into dataset_type values( 46, 41, 5 );
+insert into dataset_type values( 47, 41, 6 );
+insert into external_link values( 25, 41, 'http://soap.genomics.org.cn/', 1 );
+insert into external_link values( 26, 41, 'http://soapdenovo2.sourceforge.net/', 1 );
+insert into external_link values( 27, 41, 'http://galaxy.cbiit.cuhk.edu.hk/', 1 );
+insert into manuscript values( 35, '10.1186/2047-217X-1-1', null, 41 );
+insert into sample select 522, 7, '', 'YH' where not exists ( select null from sample where id = 522 ); 
+insert into dataset_sample values( 527, 41, 522 );
+insert into file values( 12300, 41, null, 'README.pdf', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/README.pdf', 'pdf', 237555, '', '2012/12/13', 3, 1, null );
+insert into file values( 12301, 41, null, 'Assemblathon1_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/Assemblathon1_pipeline.tgz', 'Assemblathon1_pipeline', 10510067, '', '2012/12/13', 6, 13, null );
+insert into file values( 12302, 41, null, 'Bombus_impatiens_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/Bombus_impatiens_pipeline.tgz', 'Bombus_impatiens_pipeline', 5130797, '', '2012/12/13', 6, 13, null );
+insert into file values( 12303, 41, null, 'Rhodobacter_sphaeroides_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/Rhodobacter_sphaeroides_pipeline.tgz', 'Rhodobacter_sphaeroides_pipeline', 5124496, '', '2012/12/13', 6, 13, null );
+insert into file values( 12304, 41, null, 'Staphylococcus_aureus_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/Staphylococcus_aureus_pipeline.tgz', 'Staphylococcus_aureus_pipeline', 4545061, '', '2012/12/13', 6, 13, null );
+insert into file values( 12305, 41, 522, 'YH_pipeline.tgz', 'ftp://climb.genomics.cn/pub/10.5524/100001_101000/100044/YH_pipeline.tgz', 'YH_pipeline', 7339882, '', '2012/12/13', 6, 13, null );
